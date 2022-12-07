@@ -1,9 +1,3 @@
-<style>
-  p, li {
-  font-size: 16px;
-    }
-</style>
-
 <h1>CNN Image Classification Project - Happy or Sad People</h1>
 
 <p>This project is an image classification project using Convolutional Neural Networks. The goal of the project is to identify whether a person is happy or sad. The project uses <strong>Tensorflow-GPU</strong> along side <strong>OpenCV</strong> and <strong>Matplotlib</strong> inside of a <strong>Conda environment</strong>. The whole project is written in Jupyter Notebooks.</p>
